@@ -1,0 +1,8 @@
+    televiewValues[0] == port communication ex: 5559
+     televiewValues[1] == injector interface (0, 1, 2)
+     televiewValues[2] == Stream name 
+     televiewValues[3] == action play or stop (monitor)
+     televiewValues[4] == time duration for playing (null)
+     televiewValues[5] == code rate
+     televiewValues[6] == modulation type (qpsk, dvb-t or dvb-t2) 
+     televiewValues[7] == modulation frequency ex: 1200 for 10950, etc. or 594 for Terrestrial
